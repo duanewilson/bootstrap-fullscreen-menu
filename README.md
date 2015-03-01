@@ -31,13 +31,13 @@ A simple CSS fullscreen menu Bootstrap 3, using the bootstrap modal
 	.fullscreen .modal-dialog {
 		margin: 0 0 0 0;
 		width: 100%;
-		height: 100%;
+		min-height: 100%;
 		padding: 0;
 		color: #333;
 	}
 
 	.fullscreen .modal-content {
-		height: 100%;
+		min-height: 100%;
 		border-radius: 0;
 		color: #333;
 		background: rgba(255, 255, 255, 0.97);
