@@ -10,8 +10,8 @@ A simple CSS fullscreen menu Bootstrap 3, using the bootstrap modal
 ##Requires:
 
   * Bootstrap (http://getbootstrap.com)
-  * //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
-  * //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+  * //maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css
+  * //maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js
 
 ##Additional Features When Using
 
