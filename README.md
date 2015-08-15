@@ -43,11 +43,11 @@ A simple CSS fullscreen menu Bootstrap 3, using the bootstrap modal
 		border-radius: 0;
 		color: #333;
 		background: rgba(255, 255, 255, 0.97);
+		overflow:auto;
 	}
 
 	.fullscreen .modal-body ul {
 		padding: 100px 0 0 0;
-		overflow: auto;
 	}
 
 	.fullscreen .modal-body li {
