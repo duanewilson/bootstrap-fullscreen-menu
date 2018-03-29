@@ -1,7 +1,7 @@
 bootstrap-fullscreen-menu
 ================
 
-A simple CSS fullscreen menu Bootstrap 3, using the bootstrap modal
+A simple CSS fullscreen menu Bootstrap 3 & 4, using the bootstrap modal
 
 #Demo:
 
@@ -30,6 +30,7 @@ A simple CSS fullscreen menu Bootstrap 3, using the bootstrap modal
 	-------------------------------------------------- */
 	.fullscreen .modal-dialog {
 		margin: 0 0 0 0;
+		max-width: 100%;
 		width: 100%;
 		height: 100%;
 		min-height: 100%;
