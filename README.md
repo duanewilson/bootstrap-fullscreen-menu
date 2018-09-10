@@ -102,7 +102,7 @@ A simple CSS fullscreen menu Bootstrap 3 & 4, using the bootstrap modal
 						<li><a href="#" class="big">A Menu Item</a></li>
 						<li><a href="#" class="big">Another Item</a></li>
 						<li><a href="#" class="big">This One Too!!</a></li>
-						<li><a href="http://meagency.com" class="big">me.agency</a></li>
+						<li><a href="https://helloduane.com" class="big">Work With Me</a></li>
 					</ul>
 				</div>
 			</div><!-- /.modal-content -->
